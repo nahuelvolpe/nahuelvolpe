@@ -7,7 +7,7 @@
 
 #### ⚡ Acerca de mi
 - 💼 Actualmente estoy trabajando en **Sidesys IT Solutions**
-- ⚙️ Mi proyecto más reciente: **[uWork](https://uwork-dev-beta.web.app)**
+- ⚙️ Mi proyecto más reciente: **[uWork](https://github.com/nahuelvolpe/uwork-dev)**
 - 🌍 Me encuentro capacitandome en **Framework .NET**
 - 🎓 Estudiante de Licenciatura en Informática en la Universidad Nacional del Oeste
 &nbsp;
