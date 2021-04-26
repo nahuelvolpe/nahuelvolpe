@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Nahuel Volpe</h1>
 
-<h4 align="center">Soy desarrollador fullstack apasionado por crear experiencias digitales centradas en el usuario. Centrándome en convertir ideas y visiones en soluciones prácticas y elegantes. También me apasiona desarrollar dispositivos IoT relacionados con la domótica.</h4>
+<h4>Soy desarrollador fullstack apasionado por crear experiencias digitales centradas en el usuario. Me gusta convertir ideas y visiones en soluciones prácticas y elegantes. Mi hobbie es desarrollar dispositivos IoT relacionados con la domótica.</h4>
 
 -----------
 
