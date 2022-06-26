@@ -8,7 +8,7 @@
 #### ⚡ Acerca de mi
 - 💼 Actualmente estoy trabajando en **Andreani SA**
 - ⚙️ Mi proyecto más reciente: **[uWork](https://github.com/nahuelvolpe/uwork-dev)**
-- 🌍 Me encuentro capacitandome en **Framework .NET y Elastic Search**
+- 🌍 Me encuentro capacitandome en **[React Avanzado](https://www.educacionit.com/curso-de-reactjs-avanzado)**
 - 🎓 Estudiante de Licenciatura en Informática en la Universidad Nacional del Oeste
 &nbsp;
 
